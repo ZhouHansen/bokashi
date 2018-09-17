@@ -30,5 +30,21 @@ https://detail.tmall.com/item.htm?id=559319210712&spm=a1z0k.6846577.0.0.755672f8
 1. 液肥的产生很快，在夏天一个星期你就能开始收获液肥了
 2. 不用天天倒垃圾了
 
+## 图例
+<h1 align="center">
+  <img src="tong1.JPG" width="150" alt="awoo logo" />
+</h1>
+<h1 align="center">
+  <img src="tong2.JPG" width="150" alt="awoo logo" />
+</h1>
+<h1 align="center">
+  <img src="tong3.JPG" width="150" alt="awoo logo" />
+</h1>
 
-### 看起来好像不错吧？现在就开始你的波卡西堆肥之旅吧！
+这是两杯实验萝卜苗，左边的加了液肥，效果显著
+<h1 align="center">
+  <img src="compare.png" width="150" alt="awoo logo" />
+</h1>
+
+
+### Emmm...看起来好像不错？现在就开始你的波卡西堆肥之旅吧！
