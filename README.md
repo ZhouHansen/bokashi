@@ -32,18 +32,18 @@ https://detail.tmall.com/item.htm?id=559319210712&spm=a1z0k.6846577.0.0.755672f8
 
 ## 图例
 <h1 align="center">
-  <img src="tong1.JPG" width="150" alt="awoo logo" />
+  <img src="tong1.jpeg"/>
 </h1>
 <h1 align="center">
-  <img src="tong2.JPG" width="150" alt="awoo logo" />
+  <img src="tong2.jpeg"/>
 </h1>
 <h1 align="center">
-  <img src="tong3.JPG" width="150" alt="awoo logo" />
+  <img src="tong3.jpeg"/>
 </h1>
 
 这是两杯实验萝卜苗，左边的加了液肥，效果显著
 <h1 align="center">
-  <img src="compare.png" width="150" alt="awoo logo" />
+  <img src="compare.png"/>
 </h1>
 
 
