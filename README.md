@@ -22,17 +22,6 @@ EM菌：这是一种能强烈分解有机物的菌，能抑制有害菌的生长
 3. 不用天天倒垃圾了
 4. 多出来的液肥可以给小区的植物补营养，也可以送朋友
 
-## 图例
-<h1 align="center">
-  <img src="tong1.jpeg"/>
-</h1>
-<h1 align="center">
-  <img src="tong2.jpeg"/>
-</h1>
-<h1 align="center">
-  <img src="tong3.jpeg"/>
-</h1>
-
 这是两杯实验萝卜苗，左边的加了液肥，效果显著
 <h1 align="center">
   <img src="compare.png"/>
